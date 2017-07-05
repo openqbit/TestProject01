@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 Common", "0 Common", "{535DB12E-BC8D-46BD-8D71-FDAAAF8B74EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Presentation", "1 Presentation", "{38B501BE-5105-4B27-9401-2727A63ADFEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Service", "2 Service", "{8FF67E4C-7831-400A-9F2A-6A8F8C1AAEB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 BLL", "3 BLL", "{13F56863-4997-44B2-B866-B2A27BFE427D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 DataAccess", "4 DataAccess", "{9B289A98-43CB-4980-9B7B-5A5F4D402034}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 Test", "5 Test", "{86C58FE7-88F0-4F3E-8B3B-81C4348CDFB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbcCompany.EFGSystem.Common.Models", "AbcCompany.EFGSystem.Common.Models\AbcCompany.EFGSystem.Common.Models.csproj", "{7A5C973D-503B-4D70-9E9F-35D64876E7DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5C973D-503B-4D70-9E9F-35D64876E7DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5C973D-503B-4D70-9E9F-35D64876E7DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5C973D-503B-4D70-9E9F-35D64876E7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5C973D-503B-4D70-9E9F-35D64876E7DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7A5C973D-503B-4D70-9E9F-35D64876E7DB} = {535DB12E-BC8D-46BD-8D71-FDAAAF8B74EC}
+	EndGlobalSection
+EndGlobal
